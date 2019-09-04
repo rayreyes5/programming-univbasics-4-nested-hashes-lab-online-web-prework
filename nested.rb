@@ -20,7 +20,8 @@ def hopper
 end
 
 def alan_kay_is_known_for
-  
+  it "operates on the programmer_hash and returns the value of what Alan Kay is known for" do
+      expect(alan_kay_is_known_for).to eq("Object Orientation")
 	
 	programmer_hash = 
  		{
