@@ -20,7 +20,7 @@ def hopper
 end
 
 def alan_kay_is_known_for
-	(hopper).to eq({:known_for => "COBOL", :languages => ["COBOL", "FORTRAN"]})
+	# What combination of keys would you use to return the value of the :known_for key of :alan_kay?
 	
 	programmer_hash = 
  		{
