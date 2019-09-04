@@ -20,7 +20,7 @@ def hopper
 end
 
 def alan_kay_is_known_for
- _return_alan_kay
+
 	
 	programmer_hash = 
  		{
